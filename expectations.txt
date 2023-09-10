@@ -2,3 +2,10 @@
 "Expectation #1: I expect to learn the basics of Web Programming and broaden my current knowledge in it. I look forward the most with committing to a learning experience that will equip me of the M-E-R-N stack." 
 "Expectation #2: I look forward also to making my learning in this course a viable side hustle. I look forward in learning how to integrate our skills with present content management system that is very in-demand as a parttime job for Computer Science Students" 
 "Expectation #3: I think in everything that I do, I always expect to find the joy in what I do. My taking of CMSC 100 is no different. I expect to have fun!" 
+
+Ramil Benitez Response:
+ 1. I agree that our knowledge in web programming will be broadened which is really helpful for us programmers, especially in the future.
+2  I look forward also to developing my skills in web programming here in cmsc 100 cause they said that it is the most used course which is useful in the field and can also be used to accept commissions as a side hustle.
+3.  I look forward in learning and having fun in the course!
+
+
