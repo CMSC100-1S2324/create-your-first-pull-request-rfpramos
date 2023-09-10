@@ -1,1 +1,2 @@
 "#This text file will include the expectations of Ramnick Francis Ramos from CMSC 100" 
+"Expectation #1: I expect to learn the basics of Web Programming and broaden my current knowledge in it. I look forward the most with committing to a learning experience that will equip me of the M-E-R-N stack." 
